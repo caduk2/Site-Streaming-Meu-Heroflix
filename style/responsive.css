@@ -1,0 +1,894 @@
+@media screen and (max-width:2560px){
+     
+    .conjunto-logo{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+   
+    .logo{
+        font-size: 120px;
+        padding: 0 40px;
+    }
+
+    .pesquisa{
+        padding: 65px 45px 0;
+        
+    }
+
+    .caixa-pesquisa{
+        width: 400px;
+        height: 60px;
+        padding-right: 430px;
+    }
+
+    .procura-texto{
+        padding-left: 8px;
+        font-size: 30px;
+    }
+
+    .botao-procura{
+        padding-bottom: 50px;
+    }
+    
+    .botao-procura img{
+        width: 35px;
+        height: 35px;
+    }
+
+    .barra-menu{
+        font-size: 25px;
+    }
+
+    .barra-menu nav a{
+        padding: 0 70px;
+    }
+    
+    .filme-principal{
+        height: 1100px;
+    }
+
+    .filme-peacemaker{
+        padding-top: 200px;
+        padding-left: 10px;
+    }
+
+    .titulo{
+        font-size: 80px;
+    }
+
+    .info-filme{
+        font-size: 35px;
+        padding-left: 70px;
+    }
+    
+    .botoes{
+        padding-left: 70px;
+        margin-left: 0;
+    }
+    
+    .botao{
+        font-size: 30px;
+    }
+
+    .txt-banner{
+        font-size: 35px;
+    }
+
+    .botao-play{
+        font-size: 1200%;
+    }
+
+    .container-footer{
+        font-size: 130px;
+    }
+
+    .container-footer a{
+        padding: 0 30px;
+    }
+}
+
+@media screen and (max-width:1920px){
+     
+    .conjunto-logo{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+   
+    .logo{
+        font-size: 110px;
+        padding: 0 0 0 80px;
+    }
+
+    .pesquisa{
+        padding: 70px 90px 0 0;
+    }
+
+    .caixa-pesquisa{
+        width: 400px;
+        height: 60px;
+        padding-right: 430px;
+    }
+
+    .procura-texto{
+        padding-left: 8px;
+        font-size: 30px;
+    }
+
+    .botao-procura{
+        padding-bottom: 50px;
+    }
+    
+    .botao-procura img{
+        width: 35px;
+        height: 35px;
+    }
+
+    .barra-menu{
+        font-size: 25px;
+    }
+   
+    .bg-2{
+        padding: 1px 0;
+    }
+    
+    .barra-menu nav{
+        margin: 0 100px;
+    }
+
+    .barra-menu nav a{
+        padding: 0;
+    }
+ 
+    .filme-peacemaker{
+        padding-top: 100px;
+        padding-left: 70px;
+    }
+
+    .filme-principal{
+        height: 850px;
+    }
+ 
+    .titulo{
+        font-size: 60px;
+    }
+ 
+    .info-filme{
+        font-size: 30px;
+    }
+     
+    .botoes{
+        padding-left: 70px;
+    }
+    
+    .botao{
+        font-size: 20px;
+    }
+ 
+    .txt-banner{
+        font-size: 30px;
+    }
+ 
+    .botao-play{
+        font-size: 900%;
+    }
+ 
+    .container-footer{
+        font-size: 130px;
+    }
+ 
+    .container-footer a{
+        padding: 0 30px;
+    }
+}
+
+@media screen and (max-width:1440px){
+     
+    .conjunto-logo{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+   
+    .logo{
+        font-size: 70px;
+        padding: 0 0 0 80px;
+    }
+
+    .pesquisa{
+        padding: 35px 85px 0 0;
+    }
+ 
+    .caixa-pesquisa{
+        width: 0;
+        height: 35px;
+        padding: 0 300px 0 0;
+    }
+ 
+    .procura-texto{
+        padding: 0 0 0 15px;
+        font-size: 20px;
+    }
+ 
+    .botao-procura{
+        padding-bottom: 35px;
+    }
+     
+    .botao-procura img{
+        width: 25px;
+        height: 25px;
+    }
+ 
+    .barra-menu{
+        font-size: 18px;
+    }
+
+    .bg-2{
+        padding: 1px 0;
+    }
+    
+    .barra-menu nav{
+        margin: 0 85px;
+    }
+    
+    .barra-menu nav a{
+        padding: 0 0;
+    }
+ 
+    .filme-peacemaker{
+        padding-top: 100px;
+        padding-left: 35px;
+    }
+
+    .filme-principal{
+        height: 850px;
+    }
+ 
+    .titulo{
+        font-size: 50px;
+    }
+ 
+    .info-filme{
+        font-size: 28px;
+        padding-left: 80px;
+    }
+     
+    .botoes{
+        padding-left: 85px;
+    }
+
+    .botao{
+        font-size: 20px;
+    }
+ 
+    .txt-banner{
+        font-size: 30px;
+    }
+ 
+    .botao-play{
+        font-size: 900%;
+    }
+ 
+    .container-footer{
+        font-size: 130px;
+    }
+ 
+    .container-footer a{
+        padding: 0 30px;
+    }
+}
+
+@media screen and (max-width:1024px){
+    
+    .conjunto-logo{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+   
+   .logo{
+        font-size: 70px;
+        padding: 0 0 0 70px;
+    }
+
+   .pesquisa{
+        padding: 35px 70px 0 0;
+    }
+ 
+    .caixa-pesquisa{
+        width: 0;
+        height: 35px;
+        padding: 0 300px 0 0;
+    }
+ 
+    .procura-texto{
+        padding: 0 0 0 15px;
+        font-size: 20px;
+    }
+ 
+    .botao-procura{
+        padding-bottom: 35px;
+    }
+     
+    .botao-procura img{
+        width: 25px;
+        height: 25px;
+    }
+ 
+    .barra-menu{
+        font-size: 16px;
+    }
+ 
+    .bg-2{
+       padding: 1px 0;
+    }
+    
+    .barra-menu nav{
+        margin: 0 65px;
+    }
+    
+    .barra-menu nav a{
+        padding: 0;
+    }
+ 
+    .filme-principal{
+        height: 510px;
+    }
+ 
+    .titulo{
+        font-size: 35px;
+    }
+ 
+   .info-filme{
+        font-size: 16px;
+        padding-left: 35px;
+    }
+     
+    .botoes{
+        padding-left: 35px;
+    }
+
+    .botao{
+        font-size: 12px;
+    }
+ 
+    .txt-banner{
+        font-size: 16px;
+    }
+ 
+    .botao-play{
+        font-size: 500%;
+    }
+ 
+    .container-footer{
+        font-size: 80px;
+    }
+ 
+    .container-footer a{
+        padding: 0 30px;
+    }
+}
+
+@media screen and (max-width:900px){
+             
+    .conjunto-logo{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        justify-content: center;
+    }
+   
+   .logo{
+        font-size: 50px;
+        padding: 10px 0 0 0;
+        margin-bottom: 1px;
+    }
+
+   .pesquisa{
+        padding: 0 0 20px 0;
+        
+    }
+ 
+    .caixa-pesquisa{
+        width: 0;
+        height: 30px;
+        padding: 0 250px 0 0;
+    }
+ 
+    .procura-texto{
+        padding: 0 0 0 20px;
+        font-size: 16px;
+    }
+ 
+    .botao-procura{
+        padding-top: 2px;
+    }
+     
+    .botao-procura img{
+        width: 20px;
+        height: 20px;
+    }
+ 
+    .bg-2{
+        padding: 1px 0;
+    }
+
+    .barra-menu{
+        font-size: 12px;
+    }
+ 
+    .barra-menu nav{
+        margin: 0 30px;
+    }
+    
+    .barra-menu nav a{
+        padding: 0;
+    }
+ 
+    .filme-principal{
+        height: 510px;
+    }
+ 
+    .titulo{
+        font-size: 28px;
+    }
+ 
+    .info-filme{
+        font-size: 16px;
+        padding-left: 25px;
+    }
+
+    .botoes {
+        padding-left: 25px;
+    }
+    
+    .botao{
+        font-size: 12px;
+    }
+
+    .descricao{
+        display: flex;
+        margin-bottom: 30px;
+    }
+
+    .txt-banner{
+        font-size: 14px;
+    }
+ 
+    .botao-play{
+        font-size: 500%;
+    }
+ 
+    .container-footer{
+        font-size: 80px;
+    }
+ 
+    .container-footer a{
+        padding: 0 30px;
+    }
+}
+
+@media screen and (max-width:720px){
+             
+    .conjunto-logo{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        justify-content: center;
+    }
+   
+    .logo{
+        font-size: 45px;
+        padding: 0;
+        margin-bottom: 0;
+    }
+
+    .pesquisa{
+        padding: 0 0 10px 0;
+    }
+ 
+    .caixa-pesquisa{
+        width: 0;
+        height: 30px;
+        padding: 0 250px 0 0;
+    }
+ 
+    .procura-texto{
+        padding: 0 0 0 20px;
+        font-size: 16px;
+    }
+ 
+    .botao-procura{
+        padding-top: 2px;
+    }
+     
+    .botao-procura img{
+        width: 20px;
+        height: 20px;
+    }
+ 
+    .bg-2{
+        padding: 1px 0;
+    }
+    
+    .barra-menu{
+        font-size: 10px;
+    }
+ 
+    .barra-menu nav{
+        margin: 0 10px ;
+    }
+
+    .barra-menu nav a{
+        padding: 0;
+    }
+ 
+    .filme-principal{
+        height: 400px;
+    }
+    
+    .filme-peacemaker{
+        padding: 100px 0 0;
+    }
+    
+    .titulo{
+        font-size: 20px;
+    }
+ 
+    .info-filme{
+        font-size: 12px;
+        padding-left: 40px;
+    }
+
+    .botoes{
+        padding-left: 40px;
+    }
+
+    .botao{
+        font-size: 10px;
+    }
+    
+    .descricao{
+        display: flex;
+        margin-bottom: 20px;
+    }
+
+ 
+    .txt-banner{
+        font-size: 10px;
+    }
+ 
+    .botao-play{
+        font-size: 450%;
+    }
+ 
+    .container-footer{
+        font-size: 50px;
+    }
+ 
+    .container-footer a{
+        padding: 0 20px;
+    }
+}
+
+@media screen and (max-width:550px){
+             
+    .conjunto-logo{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        justify-content: center;
+    }
+   
+    .logo{
+        font-size: 30px;
+        padding: 0;
+        margin-bottom: 0;
+    }
+
+    .pesquisa{
+        padding: 0 0 10px 0;
+    }
+ 
+    .caixa-pesquisa{
+        width: 0;
+        height: 20px;
+        padding: 0 150px 0 0;
+    }
+ 
+    .procura-texto{
+        padding: 0 0 0 6px;
+        font-size: 10px;
+    }
+ 
+    .botao-procura{
+        padding-top: 2px;
+    }
+     
+    .botao-procura img{
+        width: 10px;
+        height: 10px;
+    }
+ 
+    .gb-2{
+        padding: 1px 0;
+    }
+    
+    .barra-menu{
+        font-size: 9px;
+    }
+ 
+    .barra-menu nav {
+        margin: 0;
+    }
+ 
+    .barra-menu nav a{
+        padding: 0;
+    }
+
+    .filme-principal{
+        height: 290px;
+    }
+ 
+    .filme-peacemaker{
+        margin-left: 20px;
+        margin: 0;
+    }
+    
+    .titulo{
+        font-size: 20px;
+        padding: 0px;
+        margin: 0;
+    }
+ 
+    .info-filme{
+        font-size: 11px;
+        width: 80%;
+    }
+
+    .descricao{
+        display: flex;
+        margin-bottom: 20px;
+        margin-bottom: 15px;
+    }
+
+    .botao{
+        font-size: 8px;
+        padding: 10px 20px;
+    }
+ 
+    .txt-banner{
+        font-size: 10px;
+    }
+ 
+    .botao-play{
+        font-size: 320%;
+    }
+ 
+    .container-footer{
+        font-size: 40px;
+    }
+ 
+    .container-footer a{
+        padding: 0 10px;
+    }
+}
+
+@media screen and (max-width:425px){
+             
+    .conjunto-logo{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+   
+    .logo{
+        font-size: 30px;
+        padding: 0;
+        margin-bottom: 0;
+    }
+
+    .pesquisa{
+        padding: 0 0 10px 0;
+    }
+ 
+    .caixa-pesquisa{
+        width: 0;
+        height: 20px;
+        padding: 0 150px 0 0;
+    }
+ 
+    .procura-texto{
+        padding: 0 0 0 6px;
+        font-size: 10px;
+    }
+ 
+    .botao-procura{
+        padding-top: 2px;
+    }
+     
+    .botao-procura img{
+        width: 10px;
+        height: 10px;
+    }
+ 
+    .bg-2{
+        padding: 1px 0;
+    }
+    
+    .barra-menu{
+        padding: 2px 0;
+        font-size: 7px;
+    }
+ 
+    .barra-menu nav a{
+        padding: 0;
+    }
+
+    .barra-menu nav{
+        margin: 0;
+    }
+
+    .filme-principal{
+        height: 280px;
+    }
+ 
+    .filme-peacemaker{
+        padding-top: 150px;
+        margin-left: 0;
+    }
+    
+    .titulo{
+        font-size: 16px;
+    }
+ 
+    .info-filme{
+        width: 100%;
+        font-size: 11px;
+        margin: 0;
+    }
+
+    .descricao{
+        width: 80%;
+        margin-bottom: 20px;
+    }
+
+    .botoes{
+        padding: 0 10px 90px 35px;
+    }
+
+    .botao{
+        font-size: 9px;
+        padding: 8px 10px;
+        margin: 10px 10px 0 0 ;
+    }
+ 
+    .txt-banner{
+        padding: 8px 10px;
+        font-size: 9px;
+    }
+ 
+    .botao-play{
+        font-size: 250%;
+    }
+ 
+    .container-footer{
+        font-size: 50px;
+    }
+ 
+    .container-footer a{
+        padding: 0 20px;
+    }
+}
+
+@media screen and (max-width:320px){
+             
+    .conjunto-logo{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+   
+    .logo{
+        font-size: 30px;
+        padding: 0;
+        margin-bottom: 0;
+    }
+
+    .pesquisa{
+        padding: 0 0 10px 0;
+    }
+ 
+    .caixa-pesquisa{
+        width: 0;
+        height: 20px;
+        padding: 0 150px 0 0;
+    }
+ 
+    .procura-texto{
+        padding: 0 0 0 6px;
+        font-size: 10px;
+    }
+ 
+    .botao-procura{
+        padding-top: 2px;
+    }
+     
+    .botao-procura img{
+        width: 10px;
+        height: 10px;
+    }
+ 
+    .bg-2{
+        padding: 1px 0;
+    }
+    
+    .barra-menu{
+        padding: 2px 0;
+        font-size: 6px;
+    }
+ 
+    .barra-menu nav a{
+        padding: 0;
+    }
+
+    .barra-menu nav{
+        margin: 0;
+    }
+
+    .filme-principal{
+        height: 280px;
+    }
+ 
+    .filme-peacemaker{
+        margin: 0;
+    }
+    
+    .titulo{
+        font-size: 16px;
+    }
+ 
+    .info-filme{
+        width: 100%;
+        font-size: 11px;
+        margin: 0;
+    }
+
+    .descricao{
+        width: 80%;
+        margin-bottom: 20px;
+    }
+
+    .botoes{
+        padding: 0 10px 90px 35px;
+    }
+
+    .botao{
+        font-size: 9px;
+        padding: 8px 10px;
+        margin: 10px 10px 0 0 ;
+    }
+ 
+    .txt-banner{
+        padding: 8px 10px;
+        font-size: 9px;
+    }
+ 
+    .botao-play{
+        font-size: 250%;
+    }
+ 
+    .container-footer{
+        font-size: 50px;
+    }
+ 
+    .container-footer a{
+        padding: 0 20px;
+    }
+}

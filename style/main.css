@@ -1,0 +1,239 @@
+:root{
+    --vermelho:#E50914;
+    --preta:#141414;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*elementos base*/
+body {
+    background-color: var(--preta);
+    font-family: 'Arial', Times, serif;
+    color: white;
+}     
+
+.conjunto-logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2% 2% 0;
+}
+
+.logo{
+    display:flex;
+    color: var(--vermelho);
+    font-family: "Arial Black", Times;
+    font-size: 48px;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    text-decoration: none;
+    padding-top: 20px;
+}
+
+.pesquisa{
+    padding-top: 42px;
+}
+
+.caixa-pesquisa{
+    display: flex;
+    height: 30px;
+    padding: 10px;
+    border-radius: 40px;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+}
+
+.procura-texto{
+    display: flex;
+    line-height: 30px;
+    border: none;
+    background: none;
+    outline: none;
+    font-size: 20px;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+.botao-procura{
+    width: 11px;
+    height: 40px;
+    margin-top: 10px;
+    margin-right: 6px;
+}
+
+.barra-menu{
+    background-color:var(--vermelho);
+    padding: 0.2% 0px 0.2%;
+}
+
+header .barra-menu nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color:var(--preta);
+    padding: 5px 30px 5px 30px;
+}
+
+.bg-2{
+    background-color: var(--preta);
+}
+
+header nav a{
+    text-decoration: none;
+    color: #aaa;
+    background-color:var(--preta);
+    font-size: 130%;    
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+header nav a:hover{
+    color: #fff;
+}
+
+/*filme princial*/
+main .filme-principal{
+    width: 100%;
+}
+
+.filme-principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,100%)),url(/img/fundo-peacemaker.jpg);
+    height: 650px;
+    background-size: cover;
+}
+
+.info-filme{
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    padding-left: 6%;
+    font-size: 150%;
+}
+
+.titulo{
+    display: flex;
+    margin-top: 15%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+.descricao{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    width: 54%;
+}
+
+.fa-solid{
+    padding-right: 5px;
+}
+
+.botoes{
+    margin-left: 6%;
+}
+
+.botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+    border-radius: 40px;
+    padding: 15px 30px;
+    margin: 0 30px 0 0;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 2s ease all;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+    opacity: 60%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+}
+
+.carrosel-filmes{
+    display: flex;
+    margin-top: 2px;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    background-color:rgba(0,0,0,.50);
+}
+
+.txt-banner{
+    max-width: screen; 
+    position: absolute;
+    z-index: 2;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    border-radius: 50px;
+    padding: 10px 30px;
+    font-size: 150%;
+}
+
+.botao-play{
+   color: #fff;
+   font-size: 600%;
+   position: absolute;
+   padding: 2px;
+   border-radius: 50%;
+   opacity: 70%;
+}
+
+.botao-play:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    transition: 2s ease all;
+    opacity: 60%;
+}
+
+.container-footer{
+    display: flex;
+    font-size: 400%;
+    padding: 15px;
+    justify-content: center;
+    text-align: center;
+    background-color: var(--preta);
+}
+
+.rodape{
+    background-color:var(--vermelho);
+    padding: 1px 0 1px;
+    margin-bottom: 1px;
+    align-items: center; 
+}
+
+.container-footer a{
+    text-decoration: none;
+    padding: 0 5px;
+    color: #aaa;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+.fa-brands .fa-linkedin{
+    text-decoration-color: none;
+}
+
+.box-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
