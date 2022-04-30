@@ -103,7 +103,7 @@ main .filme-principal{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,100%)),url(/img/fundo-peacemaker.jpg);
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,100%)),url(../img/fundo-peacemaker.jpg);
     height: 650px;
     background-size: cover;
 }
