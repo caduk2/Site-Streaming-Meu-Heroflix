@@ -598,7 +598,8 @@
     }
  
     .procura-texto{
-        padding: 0 0 0 6px;
+        width: 130px;
+        padding: 0 0 0 10px;
         font-size: 10px;
     }
  
@@ -608,8 +609,8 @@
     }
      
     .botao-procura img{
-        width: 10px;
-        height: 10px;
+        width: 12px;
+        height: 12px;
     }
  
     .gb-2{
@@ -702,7 +703,7 @@
     }
  
     .procura-texto{
-        padding: 0 0 0 6px;
+        padding: 0 0 0 8px;
         font-size: 10px;
     }
  
@@ -712,8 +713,8 @@
     }
      
     .botao-procura img{
-        width: 10px;
-        height: 10px;
+        width: 12px;
+        height: 12px;
     }
  
     .bg-2{
@@ -811,7 +812,7 @@
     }
  
     .procura-texto{
-        padding: 0 0 0 6px;
+        padding: 0 0 0 8px;
         font-size: 10px;
     }
  
@@ -821,8 +822,8 @@
     }
      
     .botao-procura img{
-        width: 10px;
-        height: 10px;
+        width: 11px;
+        height: 11px;
     }
  
     .bg-2{
