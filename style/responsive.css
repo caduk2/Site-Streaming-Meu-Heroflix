@@ -503,7 +503,8 @@
     }
  
     .botao-procura{
-        padding-top: 2px 0 0;
+        padding: 6px 0 0 0;
+        margin: 0;
     }
 
     .bg-2{
@@ -602,7 +603,8 @@
     }
  
     .botao-procura{
-        padding-top: 2px;
+        padding: 6px 0 0 0;
+        margin: 0;
     }
      
     .botao-procura img{
@@ -705,7 +707,8 @@
     }
  
     .botao-procura{
-        padding-top: 2px;
+        padding: 6px 0 0 0;
+        margin: 0;
     }
      
     .botao-procura img{
@@ -813,7 +816,8 @@
     }
  
     .botao-procura{
-        padding-top: 2px;
+        padding: 6px 0 0 0;
+        margin: 0;
     }
      
     .botao-procura img{
